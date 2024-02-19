@@ -132,6 +132,7 @@ var constants = {
         "content//images/folc/27_SittingNoble01.png",
         "content//images/folc/28_SittingNoble02.png",
         "content//images/folc/29_SittingNoble03.png",
+        "content//images/folc/30_V_ebalo_hlebalo.png",
       ]
     },
    {
