@@ -79,7 +79,8 @@ var constants = {
         "content//images/beasts/21_dogs.png",
         "content//images/beasts/22_lion3.png",
         "content//images/beasts/23_lamb.png",
-        "content//images/beasts/24_donkey.png"
+        "content//images/beasts/24_donkey.png",
+        "content//images/beasts/25_cat_and_mouse.png",
       ]
     },
    {
