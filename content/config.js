@@ -81,6 +81,8 @@ var constants = {
         "content//images/beasts/23_lamb.png",
         "content//images/beasts/24_donkey.png",
         "content//images/beasts/25_cat_and_mouse.png",
+        "content//images/beasts/26_owl.png",
+        "content//images/beasts/27_rabbit_man_conch.png",        
       ]
     },
    {
@@ -134,6 +136,12 @@ var constants = {
         "content//images/folc/28_SittingNoble02.png",
         "content//images/folc/29_SittingNoble03.png",
         "content//images/folc/30_V_ebalo_hlebalo.png",
+        "content//images/folc/31_pooper_1.png",
+        "content//images/folc/32_pooper_2.png",
+        "content//images/folc/33_pointer_man.png",
+        "content//images/folc/34_twister.png",
+        "content//images/folc/35_mocker.png",
+        "content//images/folc/36_party_head.png",
       ]
     },
    {
