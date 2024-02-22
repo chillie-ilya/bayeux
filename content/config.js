@@ -142,6 +142,10 @@ var constants = {
         "content//images/folc/34_twister.png",
         "content//images/folc/35_mocker.png",
         "content//images/folc/36_party_head.png",
+        "content//images/folc/37_ass_man.png",
+        "content//images/folc/38_penis_cut.png",
+        "content//images/folc/39_w_man.png",
+        
       ]
     },
    {
