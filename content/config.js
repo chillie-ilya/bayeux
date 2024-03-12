@@ -82,7 +82,8 @@ var constants = {
         "content//images/beasts/24_donkey.png",
         "content//images/beasts/25_cat_and_mouse.png",
         "content//images/beasts/26_owl.png",
-        "content//images/beasts/27_rabbit_man_conch.png",        
+        "content//images/beasts/27_rabbit_man_conch.png",
+        "content//images/beasts/28_dead_beast.png",
       ]
     },
    {
@@ -145,6 +146,9 @@ var constants = {
         "content//images/folc/37_ass_man.png",
         "content//images/folc/38_penis_cut.png",
         "content//images/folc/39_w_man.png",
+        "content//images/folc/40_torso_face.png",
+        "content//images/folc/41_scalp_man1.png",
+        "content//images/folc/42_scalp_man2.png",
         
       ]
     },
@@ -189,6 +193,11 @@ var constants = {
     {
       font:"Augusta",
       size: 35,
+      uppercase: false
+    },
+    {
+      font:"Overdozesans",
+      size:25,
       uppercase: false
     }
   ],
